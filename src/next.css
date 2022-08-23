@@ -1,0 +1,15 @@
+#paycard p{
+    margin-bottom: 50;
+    margin-left: 30;
+}
+#paycard button{
+    display: table;
+
+    margin: auto;
+}
+#paycard{
+    margin-top: 150px;
+}
+#master{
+    position: absolute;
+}
